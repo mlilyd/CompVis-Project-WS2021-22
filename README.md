@@ -11,4 +11,4 @@ For this project we used two implementations for the model presented in the pape
 
 The implementations are in the pytorch and tensorflow folders accordingly, and our experiments were conducted using Jupyter notebooks which are located in the experiments folder.
 
-Some experiments are conducted using Kaggle. 
+Some experiments were conducted using Kaggle. 
