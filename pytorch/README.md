@@ -1,4 +1,6 @@
 # early_convolutions_vit_pytorch
+
+Taken from https://github.com/Jack-Etheredge/early_convolutions_vit_pytorch
 (Unofficial) PyTorch implementation of the paper "Early Convolutions Help Transformers See Better"
 
 Example usage can be found in [this notebook](notebooks/cats_and_dogs_early_conv.ipynb).
