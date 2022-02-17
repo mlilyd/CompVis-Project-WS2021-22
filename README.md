@@ -12,3 +12,6 @@ For this project we used two implementations for the model presented in the pape
 The implementations are in the pytorch and tensorflow folders accordingly, and our experiments were conducted using Jupyter notebooks which are located in the experiments folder.
 
 Some experiments were conducted using Kaggle. 
+https://www.kaggle.com/thuphamdieuanh/cifar-10-vit-original-model-1gf-6x6: ViT Original Model using 6x6 Patches- Pytorch 
+https://www.kaggle.com/thuphamdieuanh/cifar-10-vit-original-model-pytorch-12x12 ViT Original Model using 12x12 Patches- Pytorch 
+https://www.kaggle.com/phamdieuanhthu/fork-of-cifar10early-convolution-vit-1gf-final ViTC Model with early convolutional 1gf- Pytorch 
